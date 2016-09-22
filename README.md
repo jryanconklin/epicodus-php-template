@@ -22,7 +22,25 @@ For best results, please:
 
 ## Specifications
 
+*A spec in plain english.*
 
+__Input__:
+
+__Output__:
+
+#### Specification 2 ####
+*Another spec in plain english.*
+
+__Input__:
+
+__Output__:
+
+#### Specification 3 ####
+*Yet another spec in plain english.*
+
+__Input__:
+
+__Output__: 
 
 ## Author/s
 J. Ryan Conklin
