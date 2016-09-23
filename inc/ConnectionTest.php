@@ -1,7 +1,7 @@
 <?php
 //Home Connection #1
     try {
-    $DB = new PDO("mysql:host=127.0.0.1;dbname=DBNAME;port=8889","root","root");
+    $DB = new PDO("mysql:host=localhost;dbname=DBNAME;port=8889","root","root");
     $DB->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (Exception $e) {
       echo "Unable to Connect";

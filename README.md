@@ -40,7 +40,7 @@ __Output__:
 
 __Input__:
 
-__Output__: 
+__Output__:
 
 ## Author/s
 J. Ryan Conklin
